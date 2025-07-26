@@ -18,3 +18,6 @@ A machine learning project that predicts loan approval status using logistic reg
 
 ## Outcome:
 Accurate prediction of loan approval status with insights into influential features.
+
+## 📄 Notebook
+You can view the complete Jupyter Notebook here: [Loan_Approval_Prediction.ipynb](Loan_Approval_Prediction.ipynb)
