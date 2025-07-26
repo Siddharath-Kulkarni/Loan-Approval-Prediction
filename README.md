@@ -8,7 +8,7 @@ A machine learning project that predicts loan approval status using logistic reg
 - Accuracy and confusion matrix evaluation
 
 ## File Included:
-- `Logistic_SF_DS.ipynb` – Main notebook with code and explanations
+- `Loan_Approval_Prediction.ipynb` – Main notebook with code and explanations
 
 ## Tools & Libraries:
 - Python
