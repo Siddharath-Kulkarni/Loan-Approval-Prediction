@@ -21,4 +21,3 @@ Accurate prediction of loan approval status with insights into influential featu
 
 ## 📄 Notebook
 You can view the complete Jupyter Notebook here: [Loan_Approval_Prediction.ipynb](Loan_Approval_Prediction.ipynb)
-![Loan Approval Prediction Banner](path_to_image.png)
